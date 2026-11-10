@@ -1,0 +1,27 @@
+{
+  "name": "FMCW Radar FFT Lab",
+  "short_name": "FMCW Lab",
+  "description": "Range-Doppler FFT notebook running in the browser (JupyterLite + Pyodide)",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "start_url": "./notebooks/index.html?path=fmcw_radar.ipynb",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}

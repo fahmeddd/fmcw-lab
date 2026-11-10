@@ -1,0 +1,6 @@
+{
+  "@jupyterlab/notebook-extension:tracker": {
+    "codeCellConfig": {"lineWrap": true},
+    "markdownCellConfig": {"lineWrap": true}
+  }
+}

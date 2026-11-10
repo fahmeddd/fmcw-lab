@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-10T04:39:05.541700Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-10T04:13:50.029522Z",
+      "mimetype": null,
+      "name": "fmcw_radar.ipynb",
+      "path": "fmcw_radar.ipynb",
+      "size": 81442,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-10T04:39:05.541700Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-10T04:13:50.029522Z",
+      "mimetype": null,
+      "name": "radical_frames.npz",
+      "path": "radical_frames.npz",
+      "size": 2200017,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-10T04:39:05.541700Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-10T04:39:05.541700Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
